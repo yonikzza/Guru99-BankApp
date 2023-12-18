@@ -20,6 +20,9 @@ As part of the project, I tested features such as:
 # Test Reports
 - Test case reports are produced in the TestRail tool and saved in a PDF file
 
+# Performance Testing
+- I tried exercising Performance Testing in JMeter
+
 # Testing tools
 - TestRail
 - JIRA
